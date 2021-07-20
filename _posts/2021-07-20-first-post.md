@@ -4,6 +4,7 @@ excerpt: GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다.
 
 toc: true
 toc_sticky: true
+toc_label: "페이지 주요 목차"
 
 categories:
   - Blog
