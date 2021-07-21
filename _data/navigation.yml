@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "홈으로 돌아가기"
+  - title: "Home"
     url: https://ssongblog.github.io
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Projects"
+    url: /projects/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+#   - title: "Sitemap"
+#     url: /sitemap/
