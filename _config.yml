@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "GitHub Pages 만드는 중"
+title                    : "Ssong Blog 생성 중"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "쏭블로그"
