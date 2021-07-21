@@ -283,7 +283,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # default: true 읽는 시간 표기
+      show_date: true # 새로 추가한 속성: 등록 일자 표기
       comments: true
       share: true
       related: true
@@ -295,6 +296,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
+      show_date: true
       comments: false
       share: true
       related: false
